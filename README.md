@@ -5,8 +5,12 @@ research notebooks with Trax framework
 - introduction notebook to Trax
 
 [02_classes_inheritance.ipynb](02_classes_inheritance.ipynb)
-- about classes, subclasses and inheritance
+- about Python classes, subclasses and inheritance
 - `__init__` function and `__call__` function
+
+[03_data_generators_python.ipynb](03_data_generators_python.ipynb)
+- shuffling the data order
+
 
 ### Gradient Descent in Trax
 ![image](https://user-images.githubusercontent.com/49360095/235598463-45cf74fa-1f1f-45b2-8a47-a5dfa13cfc03.png)
