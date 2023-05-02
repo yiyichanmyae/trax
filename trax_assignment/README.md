@@ -1,4 +1,4 @@
 This is the assignment folder.
 
-[Trax_assignment.ipynb](Trax_assignment.ipynb)
-- the notebook to implement
+[Trax_Assignment.ipynb](Trax_assignment.ipynb)
+- the assignment notebook to implement
